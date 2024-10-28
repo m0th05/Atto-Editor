@@ -1,3 +1,10 @@
+# ANNOUNCMENT:
+
+### ATTO TO BE ABANDONED AFTER VERSION 0.4.0
+reason: loss of motivation to continue developing it
+
+
+
 ### Deps:
 
   - rust 
