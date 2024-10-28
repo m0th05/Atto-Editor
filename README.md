@@ -1,7 +1,10 @@
 # ANNOUNCMENT:
-
-### ATTO TO BE ABANDONED AFTER VERSION 0.4.0
-reason: loss of motivation to continue developing it
+### Atto has been officially abandoned
+yeah i have nothing else to say besides i have no abandoned the project, due to increased difficulty of implementing features.
+atto at the current moment is now classed as complete and wont be releasing further updates from today,
+however this doesnt mean that you cant contribute to atto, you can fully fork it, implement features and so on,
+its just that me (Dom) wont be taking part in developing atto further than it is right now.
+It has been a good run
 
 
 
