@@ -17,7 +17,7 @@ It has been a good run
 
 ### Binds:
 
-pick your binds in the lua config, alkaline will make one on first start in a common place if it doesnt exist
+pick your binds in the lua config, atto will make one on first start in a common place if it doesnt exist
 
 pick between Atto, Nano, Micro and emacs*
 
