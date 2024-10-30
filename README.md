@@ -1,5 +1,5 @@
 ### Atto has been kind of abandoned
-i simply hit a roadblock and i dont know what to do, so for now atto is classed as complete
+i simply hit a roadblock and i dont know what to do, so for now atto is classed as "abandoned"
 
 
 ### Deps:
