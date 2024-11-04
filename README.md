@@ -1,6 +1,5 @@
-### Atto has been kind of abandoned
-i simply hit a roadblock and i dont know what to do, so for now atto is classed as "abandoned"
-
+### what couldve been
+well i mean it is a sad end but also not surprising at all, i dont know how to develop a "good" text editor with features that can compete with other text editors and lack of things that i genuinely cant implement like LSP and Syntax Highlighting, thats where my knoweledge and limits are sooo.... im classing the project as complete while its incomplete, might come back to it, idk but i am busy and i should just move over to a new project.
 
 ### Deps:
 
