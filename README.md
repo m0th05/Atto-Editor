@@ -1,8 +1,5 @@
-# what couldve been
-well i mean it is a sad end but also not surprising at all, i dont know how to develop a "good" text editor with features that can compete with other text editors and lack of things that i genuinely cant implement like LSP and Syntax Highlighting, thats where my knoweledge and limits are sooo.... im classing the project as complete while its incomplete, might come back to it, idk but i am busy and i should just move over to a new project. It was a good learning experience and thats about it.
-
-for now lets just say its the end,
-i want to thank everyone who has supported for the support and if anyone wants to take over the project contact me please
+# "Complete"
+I deem this project complete for now as I dont think it needs anything (also because i have no idea what else to do and how to do somethings)
 
 
 ### Deps:
